@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 671b7b5ead2d5ea4cb5ff2092e6cfc34
+timeCreated: 1490624896
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder003
+    100004: GeoSphere130
+    100006: GeoSphere131
+    100008: GeoSphere132
+    100010: GeoSphere133
+    100012: GeoSphere134
+    100014: GeoSphere135
+    100016: GeoSphere136
+    100018: GeoSphere137
+    100020: GeoSphere138
+    100022: GeoSphere139
+    100024: GeoSphere140
+    100026: tree
+    400000: //RootNode
+    400002: Cylinder003
+    400004: GeoSphere130
+    400006: GeoSphere131
+    400008: GeoSphere132
+    400010: GeoSphere133
+    400012: GeoSphere134
+    400014: GeoSphere135
+    400016: GeoSphere136
+    400018: GeoSphere137
+    400020: GeoSphere138
+    400022: GeoSphere139
+    400024: GeoSphere140
+    400026: tree
+    2300000: Cylinder003
+    2300002: GeoSphere130
+    2300004: GeoSphere131
+    2300006: GeoSphere132
+    2300008: GeoSphere133
+    2300010: GeoSphere134
+    2300012: GeoSphere135
+    2300014: GeoSphere136
+    2300016: GeoSphere137
+    2300018: GeoSphere138
+    2300020: GeoSphere139
+    2300022: GeoSphere140
+    3300000: Cylinder003
+    3300002: GeoSphere130
+    3300004: GeoSphere131
+    3300006: GeoSphere132
+    3300008: GeoSphere133
+    3300010: GeoSphere134
+    3300012: GeoSphere135
+    3300014: GeoSphere136
+    3300016: GeoSphere137
+    3300018: GeoSphere138
+    3300020: GeoSphere139
+    3300022: GeoSphere140
+    4300000: GeoSphere135
+    4300002: GeoSphere139
+    4300004: GeoSphere132
+    4300006: GeoSphere130
+    4300008: GeoSphere138
+    4300010: GeoSphere140
+    4300012: GeoSphere136
+    4300014: GeoSphere134
+    4300016: GeoSphere131
+    4300018: GeoSphere133
+    4300020: GeoSphere137
+    4300022: Cylinder003
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
